@@ -1,5 +1,5 @@
 # Hi, I'm Nicole Capuano 👋 
-As a finance professional with over 10 years of experience specializing in FP&A, management accounting, and strategy and business planning, my goal is to always improve efficiency and accruracy while providing crucial insights for strategic decision-making through leveraging financial software and data analytics. 
+As a finance professional with over 10 years of experience specializing in FP&A, management accounting, and strategy and business planning, my goal is to always improve efficiency and accuracy while providing crucial insights for strategic decision-making through leveraging financial software and data analytics. 
 
 ## What I Do 💼
 **FP&A:** Financial modeling, variance analysis, cash flow analysis, forecasting, budgeting & business planning  
