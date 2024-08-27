@@ -13,7 +13,7 @@ As a finance professional with over 10 years of experience specializing in FP&A,
 
 ## Contact and Other Sites 📫
 [Email](mailto:nicole.capuano@outlook.com)  
-[LinkedIn](https://www.linkedin.com/in/nicole-bignall)  
+[LinkedIn](https://www.linkedin.com/in/nicole-capuano)  
 [Tableau](https://public.tableau.com/app/profile/nicole.capuano)  
 <!--
 **ncapuan01/ncapuan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
