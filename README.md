@@ -9,7 +9,7 @@ As a finance professional with over 10 years of experience specializing in FP&A,
 ## Education and Skills 🎓
 **Master of Science in Finance** - Walsh College  
 **Bachelor of Accountancy** - Walsh College  
-**Proficient in:** Microsoft Office, including PowerBI and advance Excel; Salesforce/Tableau; SQL
+**Proficient in:** Microsoft Office, including PowerBI and advanced Excel; Salesforce/Tableau; SQL
 
 ## Contact and Other Sites 📫
 [Email](mailto:nicole.capuano@outlook.com)  
